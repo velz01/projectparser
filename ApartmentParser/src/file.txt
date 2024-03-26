@@ -1,0 +1,3 @@
+fullLink=domain
+
+"https://bplelektro.by/product/zaschitno-otdelochnaya-shtukaturka-seraya-v-m-gipsovaya-1ss-1-25-knauf-rotband-30-kg-m0000009533" = "https://bplelektro.by/"
